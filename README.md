@@ -23,9 +23,9 @@
 const sanjay = {
   name: "Sanjay Anand A",
   college: "Madras Institute of Technology, Anna University",
-  year: "1st / 2nd Year CSE",
+  year: "3rd Year CSE",
   vibe: "coding at leisure — no rush, just building cool stuff",
-  currentlyBuilding: "Imposter Game 🕵️",
+  currentlyBuilding: "Imposter Game ",
   openTo: ["Collabs", "Open Source", "Side Projects"],
 };
 ```
