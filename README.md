@@ -1,27 +1,18 @@
-<!-- Zenitsu Thunder Banner -->
+<!-- 🔥 Animated Flame + Falling Embers Banner (SVG, self-contained, no external assets needed) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fTN7jcsypnUpq/giphy.gif" width="100%" alt="Zenitsu Thunder Breathing" style="border-radius: 10px;" />
+  <img src="./assets/flame-banner.svg" width="100%" alt="Sanjay Anand - Thunder Breathing Flame Banner" style="border-radius: 10px;" />
 </p>
 
-<!-- Animated Electric / Spark Line Divider -->
+<!-- Animated Flame Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" alt="Divider" />
+  <img src="./assets/flame-divider.svg" width="100%" height="24px" alt="Divider" />
 </p>
 
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗   ██╗
-██╔════╝██╔══██╗████╗  ██║     ██║██╔══██╗╚██╗ ██╔╝
-███████╗███████║██╔██╗ ██║     ██║███████║ ╚████╔╝ 
-╚════██║██╔══██║██║╚██╗██║██   ██║██╔══██║  ╚██╔╝  
-███████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║   ██║   
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
-```
-
 ### `< coding at leisure />` &nbsp;•&nbsp; CS @ MIT Anna University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Thunder+Breathing,+First+Form+%E2%9A%A1;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;MERN+%7C+Socket.io+%7C+Real-time+Apps;Builder+of+Things+That+Actually+Work;1st+Year+%E2%86%92+Already+Shipping+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Thunder+Breathing,+First+Form+%E2%9A%A1;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;MERN+%7C+Socket.io+%7C+Real-time+Apps;Builder+of+Things+That+Actually+Work;3rd+Year+%E2%86%92+Already+Shipping+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
