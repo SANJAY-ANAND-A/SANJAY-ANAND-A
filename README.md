@@ -1,9 +1,9 @@
-<!-- 🔥 Animated Flame + Falling Embers Banner (SVG, self-contained, no external assets needed) -->
+<!-- Banner -->
 <p align="center">
-  <img src="./assets/flame-banner.svg" width="100%" alt="Sanjay Anand - Thunder Breathing Flame Banner" style="border-radius: 10px;" />
+  <img src="./assets/flame-banner.svg" width="100%" alt="Sanjay Anand - Profile Banner" style="border-radius: 10px;" />
 </p>
 
-<!-- Animated Flame Divider -->
+<!-- Animated Divider -->
 <p align="center">
   <img src="./assets/flame-divider.svg" width="100%" height="24px" alt="Divider" />
 </p>
@@ -12,7 +12,7 @@
 
 ### `< coding at leisure />` &nbsp;•&nbsp; CS @ MIT Anna University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Thunder+Breathing,+First+Form+%E2%9A%A1;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;MERN+%7C+Socket.io+%7C+Real-time+Apps;Builder+of+Things+That+Actually+Work;3rd+Year+%E2%86%92+Already+Shipping+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Socket.io+%7C+Scalable+Web+Apps;Building+Intuitive+%26+High-Performance+Products;CS+Undergrad+%40+MIT+Anna+University)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,40 +22,45 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="55%" valign="top">
 
 ```js
 const sanjay = {
   name: "Sanjay Anand A",
   college: "Madras Institute of Technology, Anna University",
-  year: "3rd Year CSE",
-  vibe: "Thunder Breathing: First Form — Godspeed ⚡",
+  degree: "B.Tech in Computer Science and Engineering",
+  currentYear: "3rd Year",
+  focus: "Full-Stack Web Development & Real-Time Systems",
   currentlyBuilding: "Imposter Game",
-  openTo: ["Collabs", "Open Source", "Side Projects"],
+  openTo: ["Internships", "Software Engineering Roles", "Collaborations"],
 };
 ```
 
    </td>
-   <td width="35%" align="center">
-     <img src="https://media1.tenor.com/m/Yw_Vl1u0Ff8AAAAC/zenitsu-demon-slayer.gif" width="180" alt="Zenitsu Chibi" style="border-radius: 8px;" />
+   <td width="45%" align="center" valign="middle">
+     <img src="https://media1.tenor.com/m/Yw_Vl1u0Ff8AAAAC/zenitsu-demon-slayer.gif" width="260" alt="Anime Character Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
+     <br/>
+     <sub><b>Sanjay Anand A</b> &bull; Always Learning & Building</sub>
    </td>
   </tr>
 </table>
 
 ---
 
-## 🕵️ Featured Project — Imposter Game
+## 🚀 First Project — Imposter Game
 
-> **A real-time multiplayer social deduction game**
+> **A real-time multiplayer social deduction web game with live room synchronization**
 
-- 👥 Play with **3+ friends** — one is the Imposter!
-- 🔤 Everyone gets the **secret word** except the Imposter
-- 💬 Give a **one-word clue** without revealing the word
-- 🗳️ **Vote together** — is it Crew or Imposter?
+- 👥 **Multiplayer Experience:** Supports real-time room sessions for 3+ players with instant role assignments.
+- 🔤 **Game Mechanics:** Every participant receives a secret topic word, while the designated Imposter tries to blend in.
+- 💬 **Live Interaction:** Turn-based one-word clues powered by low-latency Socket.io events.
+- 🗳️ **Democratic Voting:** Synchronized polling system to evaluate, debate, and reveal the Imposter.
 
-**Stack:** MongoDB · Express · React · Node.js · Socket.io · JWT
+<br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A)
+**Tech Stack:** MongoDB &bull; Express.js &bull; React &bull; Node.js &bull; Socket.io &bull; JWT
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-%23FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A)
 
 ---
 
@@ -108,7 +113,7 @@ const sanjay = {
   
   <br/>
 
-  *"Thunder Breathing, First Form: Thunderclap and Flash."* ⚡
+  *"Focus on what you can do, master it, and refine it to perfection."*
 </div>
 
 <!-- Animated Bottom Wave -->
