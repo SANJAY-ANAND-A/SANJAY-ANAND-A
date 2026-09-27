@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0d1117&height=180&section=header" width="100%"/>
+
 <div align="center">
 
 ```
@@ -112,3 +114,5 @@ const sanjay = {
   
   *"Ship it. Fix it. Ship it again."* 🚀
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFB3&height=120&section=footer" width="100%"/>
+
