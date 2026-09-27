@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/flame-banner.svg" width="100%" alt="Sanjay Anand - Profile Banner" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/main/assets/flame-banner.svg?v=3" width="100%" alt="Sanjay Anand - Profile Banner" style="border-radius: 10px;" />
 </p>
 
 <!-- Animated Divider -->
