@@ -38,21 +38,6 @@ const sanjay = {
 
 ---
 
-## ⚡ About Me
-
-<table>
-  <tr>
-    <td width="60%">
-
-```js
-const sanjay = {
-  name: "Sanjay Anand A",
-  college: "Madras Institute of Technology",
-  year: "3rd Year CSE",
-  vibe: "Thunder Breathing, First Form ⚡",
-  currentlyBuilding: "Imposter Game",
-  openTo: ["Collabs", "Open Source", "Side Projects"],
-};
 
 ## 🕵️ Featured Project — Imposter Game
 
