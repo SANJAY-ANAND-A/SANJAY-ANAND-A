@@ -1,8 +1,12 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0d1117&height=180&section=header" width="100%"/>
-<p align="center"> 
-  <!-- <img src="https://media.giphy.com/media/fTN7jcsypnUpq/giphy.gif" width="100%" alt="Zenitsu Thunder Breathing" style="border-radius: 12px; max-height: 280px; object-fit: cover;" /> -->
+<!-- Zenitsu Thunder Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fTN7jcsypnUpq/giphy.gif" width="100%" alt="Zenitsu Thunder Breathing" style="border-radius: 10px;" />
 </p>
 
+<!-- Animated Electric / Spark Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" alt="Divider" />
+</p>
 
 <div align="center">
 
@@ -17,27 +21,37 @@
 
 ### `< coding at leisure />` &nbsp;•&nbsp; CS @ MIT Anna University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+in+Progress+%F0%9F%9A%80;MERN+%7C+Socket.io+%7C+Real-time+Apps;Builder+of+Things+That+Actually+Work;1st+Year+%E2%86%92+Already+Shipping+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Thunder+Breathing,+First+Form+%E2%9A%A1;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;MERN+%7C+Socket.io+%7C+Real-time+Apps;Builder+of+Things+That+Actually+Work;1st+Year+%E2%86%92+Already+Shipping+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👾 About Me
+## ⚡ About Me
+
+<table>
+  <tr>
+    <td width="65%">
 
 ```js
 const sanjay = {
   name: "Sanjay Anand A",
   college: "Madras Institute of Technology, Anna University",
   year: "3rd Year CSE",
-  vibe: "coding at leisure — no rush, just building cool stuff",
-  currentlyBuilding: "Imposter Game ",
+  vibe: "Thunder Breathing: First Form — Godspeed ⚡",
+  currentlyBuilding: "Imposter Game",
   openTo: ["Collabs", "Open Source", "Side Projects"],
 };
 ```
 
----
+   </td>
+   <td width="35%" align="center">
+     <img src="https://media1.tenor.com/m/Yw_Vl1u0Ff8AAAAC/zenitsu-demon-slayer.gif" width="180" alt="Zenitsu Chibi" style="border-radius: 8px;" />
+   </td>
+  </tr>
+</table>
 
+---
 
 ## 🕵️ Featured Project — Imposter Game
 
@@ -50,7 +64,7 @@ const sanjay = {
 
 **Stack:** MongoDB · Express · React · Node.js · Socket.io · JWT
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%2300FFB3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A)
 
 ---
 
@@ -58,33 +72,16 @@ const sanjay = {
 
 <div align="center">
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,angular,nodejs,mongodb,mysql,git&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 ### 🐍 Contribution Activity
 
 <picture>
@@ -93,11 +90,12 @@ const sanjay = {
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SANJAY-ANAND-A&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAY-ANAND-A&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SANJAY-ANAND-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE600&icon_color=FFE600" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAY-ANAND-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE600" height="160"/>
 
 </div>
 
@@ -115,9 +113,12 @@ const sanjay = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANJAY-ANAND-A&color=00FFB3&style=flat-square&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=SANJAY-ANAND-A&color=FFE600&style=flat-square&label=profile+views" />
   
-  *"Ship it. Fix it. Ship it again."* 🚀
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFB3&height=120&section=footer" width="100%"/>
+  <br/>
 
+  *"Thunder Breathing, First Form: Thunderclap and Flash."* ⚡
+</div>
+
+<!-- Animated Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FFE600&height=100&section=footer" width="100%"/>
