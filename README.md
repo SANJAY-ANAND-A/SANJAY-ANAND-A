@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0d1117&height=180&section=header" width="100%"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/fTN7jcsypnUpq/giphy.gif" width="100%" alt="Zenitsu Thunder Breathing" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
+</p>
+
 
 <div align="center">
 
