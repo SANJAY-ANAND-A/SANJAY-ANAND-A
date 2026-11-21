@@ -15,16 +15,15 @@
 **Computer Science & Engineering @ Madras Institute of Technology, Anna University**
 
 <a href="https://github.com/SANJAY-ANAND-A">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFE600&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Software+Development;Predictive+Traffic+Engineering+with+SDN+%26+PyTorch;Operating+Systems+Simulation+in+C11;Real-Time+Synchronized+Apps+with+Socket.io+%26+NestJS" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F0C638&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Software+Development;Predictive+Traffic+Engineering+with+SDN+%26+PyTorch;Operating+Systems+Simulation+in+C11;Real-Time+Synchronized+Apps+with+Socket.io+%26+NestJS" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/SANJAY-ANAND-A?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-0d1117?style=for-the-badge&logo=github&logoColor=FFE600" alt="Repositories" /></a>
-<a href="https://www.linkedin.com/in/sanjayanand2006"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-FFE600?style=for-the-badge&labelColor=0d1117" alt="Open to internships" />
+<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/SANJAY-ANAND-A?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-0d1117?style=for-the-badge&logo=github&logoColor=F0C638" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/sanjayanand2006"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Status-Open_to_Internships-0d1117?style=for-the-badge&logoColor=F0C638&labelColor=0d1117&color=F0C638" alt="Open to internships" />
 
 </div>
 
@@ -89,8 +88,8 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
     <td valign="middle"><b>Systems, AI & Tools</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=pytorch,linux,docker,git,github,vscode,postman&theme=dark" alt="Tools" />
-      <img src="https://img.shields.io/badge/OpenFlow_1.3-0d1117?style=for-the-badge&logoColor=FFE600" alt="OpenFlow 1.3" height="48" />
-      <img src="https://img.shields.io/badge/Mininet-0d1117?style=for-the-badge&logoColor=FFE600" alt="Mininet" height="48" />
+      <img src="https://img.shields.io/badge/OpenFlow_1.3-0d1117?style=for-the-badge&logoColor=F0C638" alt="OpenFlow 1.3" height="48" />
+      <img src="https://img.shields.io/badge/Mininet-0d1117?style=for-the-badge&logoColor=F0C638" alt="Mininet" height="48" />
     </td>
   </tr>
   <tr>
@@ -111,7 +110,7 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 *Academic Research Project under Dr. Gunasekaran · Dept. of Computer Science, MIT Anna University*
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Mininet-0d1117?style=flat-square&logoColor=FFE600" alt="Mininet" />
+<img src="https://img.shields.io/badge/Mininet-0d1117?style=flat-square&logoColor=F0C638" alt="Mininet" />
 <img src="https://img.shields.io/badge/OpenFlow_1.3-0d1117?style=flat-square&logoColor=white" alt="OpenFlow" />
 <img src="https://img.shields.io/badge/Open_vSwitch-0d1117?style=flat-square&logoColor=white" alt="OVS" />
 <img src="https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
@@ -135,7 +134,7 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 - **Multimodal Analysis:** Analyzes outfit photos via Gemini Vision to recommend matching accessories and jewelry within price constraints.
 - **Deterministic Safeguards:** Enforces mathematical budget ceiling limits to ensure AI-generated item recommendations never exceed the user's defined financial cap.
 
-[![View Repository](https://img.shields.io/badge/View_PocketSmart_AI-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/PocketSmart-AI)
+[![View Repository](https://img.shields.io/badge/View_PocketSmart_AI-F0C638?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/PocketSmart-AI)
 
 ---
 
@@ -157,7 +156,7 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 - **Game Engine:** Automated secret topic distribution, turn timers, and real-time voting resolution to unmask the imposter.
 - **Session Security:** Token-based JWT authentication paired with secure session persistence.
 
-[![View Repository](https://img.shields.io/badge/View_WordSpy-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/wordspy)
+[![View Repository](https://img.shields.io/badge/View_WordSpy-F0C638?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/wordspy)
 
 ---
 
@@ -170,7 +169,7 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 - **DeadlockGuard ([OS_project](https://github.com/SANJAY-ANAND-A/OS_project)):** Interactive OS laboratory simulator implementing Banker's Algorithm for deadlock avoidance, resource allocation graphs, and detection/recovery algorithms with a native C computation engine and web dashboard.
 - **Paging Visualizer ([newOS_pro](https://github.com/SANJAY-ANAND-A/newOS_pro)):** Modular, zero-dependency C11 simulator demonstrating virtual-to-physical address translation, page faults, FIFO and LRU replacement policies, and secondary swap storage rendered with real-time ANSI terminal visualization.
 
-[![View DeadlockGuard](https://img.shields.io/badge/View_DeadlockGuard-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/OS_project)
+[![View DeadlockGuard](https://img.shields.io/badge/View_DeadlockGuard-F0C638?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/OS_project)
 [![View Paging Visualizer](https://img.shields.io/badge/View_Paging_Visualizer-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANJAY-ANAND-A/newOS_pro)
 
 ---
@@ -202,42 +201,23 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 
 ---
 
-<!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
-## 💡 Competitive Programming & Problem Solving
+<!-- ===================== GITHUB STATS & ACTIVITY ===================== -->
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/u/SANJAYaNANAD">
-  <img src="https://leetcard.jacoblin.cool/SANJAYaNANAD?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" alt="LeetCode stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=SANJAY-ANAND-A&show_icons=true&bg_color=161b22&title_color=f0c638&icon_color=f0c638&text_color=e6edf3&border_color=30363d&border_radius=8" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAY-ANAND-A&layout=compact&bg_color=161b22&title_color=f0c638&text_color=e6edf3&border_color=30363d&border_radius=8" width="49%" alt="Most used languages" />
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-SANJAYaNANAD-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" /></a>
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAY-ANAND-A&bg_color=161b22&color=f0c638&line=f0c638&point=ffffff&area=true&area_color=f0c63820&border_color=30363d&border_radius=8" width="100%" alt="Contribution activity graph" />
 
 </div>
 
-- **Algorithmic Practice:** Focused on core Data Structures & Algorithms, including arrays, hash tables, linked lists, binary trees, recursion, and dynamic programming with complexity analysis.
-
-<br/>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SANJAY-ANAND-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE600&icon_color=FFE600&text_color=c9d1d9" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAY-ANAND-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE600&text_color=c9d1d9" width="49%" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SANJAY-ANAND-A&theme=tokyonight&hide_border=true&background=0d1117&ring=FFE600&fire=FFE600&currStreakLabel=FFE600&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="98%" alt="GitHub streak" />
-
-</div>
-
-### 🐍 Contribution Activity
+### 🐍 Contribution Calendar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/output/github-contribution-grid-snake-dark.svg" />
@@ -256,10 +236,9 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 
 **Open to internships, engineering roles, and open-source collaboration.**
 
-<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://github.com/SANJAY-ANAND-A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/sanjayanand2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
@@ -268,7 +247,7 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SANJAY-ANAND-A&color=FFE600&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SANJAY-ANAND-A&color=f0c638&style=flat-square&label=profile+views" alt="Profile views" />
 
 <br/><br/>
 
@@ -276,4 +255,4 @@ I'm a third-year Computer Science and Engineering student at **Madras Institute 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FFE600&height=80&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f0c638&height=80&section=footer" width="100%" alt="" />
