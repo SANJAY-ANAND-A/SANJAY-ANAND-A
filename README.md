@@ -3,20 +3,27 @@
   <img src="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/main/assets/flame-banner.svg?v=3" width="100%" alt="Sanjay Anand - Profile Banner" />
 </p>
 
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/main/assets/flame-divider.svg" width="100%" height="24px" alt="Divider" />
+</p>
+
 <div align="center">
 
 # Sanjay Anand A
 
-**Software Engineer in the making &nbsp;·&nbsp; Computer Science @ Madras Institute of Technology, Anna University**
+**Computer Science & Engineering @ Madras Institute of Technology, Anna University**
 
 <a href="https://github.com/SANJAY-ANAND-A">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFE600&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+web+applications;Solving+problems+with+data+structures+%26+algorithms;Real-time+systems+with+Node.js+%26+Socket.io;Preparing+for+software+engineering+roles" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFE600&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Software+Development;Predictive+Traffic+Engineering+with+SDN+%26+PyTorch;Operating+Systems+Simulation+in+C11;Real-Time+Synchronized+Apps+with+Socket.io+%26+NestJS" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/zenitzu-agatsuma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/SANJAY-ANAND-A?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-0d1117?style=for-the-badge&logo=github&logoColor=FFE600" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/sanjayanand2006"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <img src="https://img.shields.io/badge/Status-Open_to_Internships-FFE600?style=for-the-badge&labelColor=0d1117" alt="Open to internships" />
 
 </div>
@@ -26,69 +33,69 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-## About
+## ⚡ About Me
 
 ```yaml
 name:        Sanjay Anand A
-university:  Madras Institute of Technology, Anna University
-degree:      B.Tech, Computer Science and Engineering (3rd Year)
-focus:       [Software Engineering, DSA, Full-Stack Development, Real-Time Systems]
-building:    Imposter Game, a real-time multiplayer web app
-open_to:     [Internships, Software Engineering Roles, Open-Source Collaboration]
+university:  Madras Institute of Technology (MIT), Anna University, Chennai
+degree:      B.E. Computer Science and Engineering (3rd Year, 2024–2028)
+focus:       [Systems Engineering, Real-Time Web, SDN & AI, Distributed Applications]
+active_work: [SDN Traffic Engineering, PocketSmart AI, WordSpy, VIBRA]
+open_to:     [Software Engineering Internships, Research Collaborations, Full-Stack Roles]
 ```
 
-I'm a third-year Computer Science student who enjoys turning algorithmic thinking into software people actually use. I build full-stack applications with the MERN stack, sharpen my fundamentals through data structures and competitive programming, and care about clean, maintainable code and low-latency user experiences.
+I'm a third-year Computer Science and Engineering student at **Madras Institute of Technology (MIT), Anna University**. I build software across the stack—from hardware-level network emulation and low-level operating system simulators in C to real-time multiplayer web applications and AI-driven platforms.
 
-**What I'm working toward**
-
-- **Software Engineering:** writing readable, testable, well-structured code.
-- **Data Structures & Algorithms:** building strong problem-solving fundamentals.
-- **Full-Stack Development:** shipping features end to end, from database to UI.
-- **Open Source & Continuous Learning:** reading real codebases and contributing back.
+**What I engineer:**
+- **Systems & Networks:** Software-Defined Networking (SDN) topologies with Mininet and Open vSwitch, LSTM congestion prediction, and low-level OS algorithms in C11.
+- **Full-Stack & Real-Time Applications:** Low-latency multiplayer state synchronization, reactive WebSockets, and clean modular APIs with Node.js, Express, NestJS, and React.
+- **Applied GenAI:** Production-ready integrations with Google Gemini AI combining multimodal understanding with deterministic safety mechanisms.
 
 <br/>
 
 ---
 
 <!-- ===================== SKILLS ===================== -->
-## Technical Skills
+## 🛠️ Technical Skills
 
 <table>
   <tr>
     <td width="24%" valign="middle"><b>Languages</b></td>
     <td width="76%">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,java,dart&theme=dark" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Frontend</b></td>
+    <td valign="middle"><b>Frontend & Mobile</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,flutter,html,css,vite&theme=dark" alt="Frontend & Mobile" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Backend & Real-Time</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark" alt="Backend" />
       <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" height="48" />
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="48" />
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Databases</b></td>
+    <td valign="middle"><b>Databases & ORM</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&theme=dark" alt="Databases" />
     </td>
   </tr>
   <tr>
-    <td valign="middle"><b>Tools</b></td>
+    <td valign="middle"><b>Systems, AI & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=pytorch,linux,docker,git,github,vscode,postman&theme=dark" alt="Tools" />
+      <img src="https://img.shields.io/badge/OpenFlow_1.3-0d1117?style=for-the-badge&logoColor=FFE600" alt="OpenFlow 1.3" height="48" />
+      <img src="https://img.shields.io/badge/Mininet-0d1117?style=for-the-badge&logoColor=FFE600" alt="Mininet" height="48" />
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Core CS</b></td>
-    <td>Data Structures · Algorithms · Object-Oriented Programming · DBMS</td>
+    <td>Data Structures & Algorithms · Operating Systems Internals · Software-Defined Networking · DBMS · OOP</td>
   </tr>
 </table>
 
@@ -96,88 +103,128 @@ I'm a third-year Computer Science student who enjoys turning algorithmic thinkin
 
 ---
 
-<!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
-## Competitive Programming & Problem Solving
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
 
-<!-- TODO: replace YOUR_LEETCODE_USERNAME / YOUR_CODEFORCES_HANDLE. Delete any card you do not use. -->
+### 1. AI-Driven QoS-Aware Predictive Traffic Engineering in SDN
+**Self-healing edge network routing using LSTM congestion prediction and OpenFlow fast-failover.**  
+*Academic Research Project under Dr. Gunasekaran · Dept. of Computer Science, MIT Anna University*
 
-<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Mininet-0d1117?style=flat-square&logoColor=FFE600" alt="Mininet" />
+<img src="https://img.shields.io/badge/OpenFlow_1.3-0d1117?style=flat-square&logoColor=white" alt="OpenFlow" />
+<img src="https://img.shields.io/badge/Open_vSwitch-0d1117?style=flat-square&logoColor=white" alt="OVS" />
+<img src="https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="62%" alt="LeetCode stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE&theme=dark" height="150" alt="Codeforces stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-
-</div>
-
-**Approach:** pattern-first practice across arrays, strings, hashing, recursion, trees, graphs and dynamic programming, with a focus on understanding *why* a solution works and what its time and space trade-offs are.
-
-<br/>
+- **Architecture:** Emulated Fat-Tree network topology (3 switches, 4 hosts) with redundant backup link routing traffic through an OS-Ken SDN controller.
+- **Telemetry Pipeline:** Polled hardware-level OpenFlow port statistics every 5 seconds to assemble clean time-series datasets under varying TCP and 10 Mbps UDP loads.
+- **Predictive Routing:** Integrated a PyTorch LSTM model to forecast link congestion before buffer overflow occurs, triggering sub-millisecond hardware Fast-Failover link recovery.
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## Featured Projects
+### 2. PocketSmart AI
+**GenAI-powered smart budget planner and multi-category recommendation system.**
 
-### Imposter Game
-**A real-time multiplayer social deduction web game with live room synchronization.**
+<a href="https://github.com/SANJAY-ANAND-A/PocketSmart-AI"><img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/PocketSmart-AI"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/PocketSmart-AI"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/PocketSmart-AI"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
 
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+- **Core Capabilities:** Intelligent budget allocation for home interiors, event/party planning, and personal styling using Google Gemini AI models.
+- **Multimodal Analysis:** Analyzes outfit photos via Gemini Vision to recommend matching accessories and jewelry within price constraints.
+- **Deterministic Safeguards:** Enforces mathematical budget ceiling limits to ensure AI-generated item recommendations never exceed the user's defined financial cap.
+
+[![View Repository](https://img.shields.io/badge/View_PocketSmart_AI-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/PocketSmart-AI)
+
+---
+
+### 3. WordSpy — Real-Time Multiplayer Imposter Game
+**Low-latency multiplayer social deduction web game with live room state synchronization.**
+
+<a href="https://github.com/SANJAY-ANAND-A/wordspy"><img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/wordspy"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/wordspy"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/wordspy"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/wordspy"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 
 ```
-[ React Client ] <--- Socket.io events ---> [ Node + Express Server ] <---> [ MongoDB ]
-   Lobby / Clues / Voting UI                 Rooms, roles, turn logic       Users & sessions
+[ React Client ] <---- Socket.io Events ----> [ Node.js + Express Server ] <----> [ MongoDB ]
+  Lobby / Clues / Voting UI                    Rooms, turn logic, secret word     Users & sessions
 ```
 
-- **Problem:** Social deduction games need every player's view to stay perfectly in sync, or the game breaks.
-- **Solution:** Room-based sessions where state changes (roles, turns, votes) are broadcast to all players over low-latency Socket.io events.
-- **Key features:**
-  - Real-time rooms for 3+ players with instant role assignment.
-  - A secret topic word for everyone except the Imposter, who must blend in.
-  - Turn-based one-word clues delivered live to the whole room.
-  - Synchronized voting to debate and reveal the Imposter.
-  - JWT-based authentication for player sessions.
+- **Live Synchronization:** Real-time rooms for 3+ players with instant role assignment and zero-latency clue broadcasting.
+- **Game Engine:** Automated secret topic distribution, turn timers, and real-time voting resolution to unmask the imposter.
+- **Session Security:** Token-based JWT authentication paired with secure session persistence.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A)
+[![View Repository](https://img.shields.io/badge/View_WordSpy-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/wordspy)
 
-<!-- TODO: add more projects here using the same structure (Problem / Solution / Key features). -->
+---
+
+### 4. Operating Systems Simulation Lab: DeadlockGuard & Paging Visualizer
+**Native C11 educational simulators for deadlock avoidance and memory management.**
+
+<a href="https://github.com/SANJAY-ANAND-A/OS_project"><img src="https://img.shields.io/badge/DeadlockGuard-C_Engine_%2B_Web_UI-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></a>
+<a href="https://github.com/SANJAY-ANAND-A/newOS_pro"><img src="https://img.shields.io/badge/Paging_Visualizer-C11_ANSI_Terminal-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></a>
+
+- **DeadlockGuard ([OS_project](https://github.com/SANJAY-ANAND-A/OS_project)):** Interactive OS laboratory simulator implementing Banker's Algorithm for deadlock avoidance, resource allocation graphs, and detection/recovery algorithms with a native C computation engine and web dashboard.
+- **Paging Visualizer ([newOS_pro](https://github.com/SANJAY-ANAND-A/newOS_pro)):** Modular, zero-dependency C11 simulator demonstrating virtual-to-physical address translation, page faults, FIFO and LRU replacement policies, and secondary swap storage rendered with real-time ANSI terminal visualization.
+
+[![View DeadlockGuard](https://img.shields.io/badge/View_DeadlockGuard-FFE600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SANJAY-ANAND-A/OS_project)
+[![View Paging Visualizer](https://img.shields.io/badge/View_Paging_Visualizer-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANJAY-ANAND-A/newOS_pro)
+
+---
+
+### 5. VIBRA — Music Streaming & Social Audio Platform
+**Modular audio streaming and real-time synchronized listening room application.**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+
+- **Platform Architecture:** Cross-platform Flutter mobile client connecting to a modular NestJS backend with Prisma ORM and PostgreSQL.
+- **Features:** Synchronized listening rooms, audio streaming APIs, artist discography discovery feeds, and music trivia gaming sessions.
 
 <br/>
 
 ---
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
-## Achievements & Milestones
+## 🏆 Key Milestones & Coursework
 
-<!-- TODO: add verified items such as contest ratings, hackathon results, certifications, merged open-source PRs. -->
+- **SDN & Networks Research:** Engineered a Mininet Fat-Tree edge network topology and OpenFlow 1.3 telemetry pipeline for predictive traffic engineering under Dr. Gunasekaran at MIT Anna University.
+- **Systems & OS Internals:** Authored native C11 operating system simulators implementing Banker's Algorithm, demand paging, and page replacement policies (FIFO/LRU).
+- **Full-Stack & Real-Time Engineering:** Deployed end-to-end full-stack applications with WebSockets, token authentication, and multi-tier databases.
+- **Academic Foundation:** Rigorous core coursework across Operating Systems, Data Structures & Algorithms, Computer Networks, and Database Management Systems at MIT Anna University.
 
-- Designed and shipped a full-stack, real-time multiplayer application end to end (React, Node.js, Socket.io, MongoDB).
-- Building core strength in C, C++ and Java alongside web development as a third-year CS student at MIT, Anna University.
-- Practicing DSA consistently on competitive programming platforms.
-- Working toward first open-source contributions.
+<br/>
+
+---
+
+<!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
+## 💡 Competitive Programming & Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/SANJAYaNANAD">
+  <img src="https://leetcard.jacoblin.cool/SANJAYaNANAD?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" alt="LeetCode stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-SANJAYaNANAD-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" /></a>
+
+</div>
+
+- **Algorithmic Practice:** Focused on core Data Structures & Algorithms, including arrays, hash tables, linked lists, binary trees, recursion, and dynamic programming with complexity analysis.
 
 <br/>
 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -190,13 +237,7 @@ I'm a third-year Computer Science student who enjoys turning algorithmic thinkin
 
 </div>
 
-### Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAY-ANAND-A&bg_color=0d1117&color=c9d1d9&line=FFE600&point=ffffff&area=true&area_color=FFE600&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-</div>
+### 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANJAY-ANAND-A/SANJAY-ANAND-A/output/github-contribution-grid-snake-dark.svg" />
@@ -208,47 +249,17 @@ I'm a third-year Computer Science student who enjoys turning algorithmic thinkin
 
 ---
 
-<!-- ===================== CURRENTLY FOCUSED ===================== -->
-## Currently Focused On
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Data Structures & Algorithms</h4>
-      <p>Graphs, trees, dynamic programming and complexity analysis in <b>C++ and Java</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Scalable Full-Stack Systems</h4>
-      <p>Real-time architecture, authentication and clean API design with the <b>MERN stack</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Open Source</h4>
-      <p>Reading production codebases and preparing first contributions.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Software Engineering Fundamentals</h4>
-      <p>Operating systems, DBMS, object-oriented design and writing maintainable code.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
 <!-- ===================== CONNECT ===================== -->
-## Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
-**Open to internships, software engineering roles and collaborations.**
+**Open to internships, engineering roles, and open-source collaboration.**
 
-<a href="https://www.linkedin.com/in/zenitzu-agatsuma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anandsanjay2006@gmail.com"><img src="https://img.shields.io/badge/Email-anandsanjay2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/SANJAY-ANAND-A"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- TODO: add email -->
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+<a href="https://www.linkedin.com/in/sanjayanand2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/SANJAYaNANAD"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
@@ -261,7 +272,7 @@ I'm a third-year Computer Science student who enjoys turning algorithmic thinkin
 
 <br/><br/>
 
-<sub><i>Focus on what you can do, master it, and refine it to perfection.</i></sub>
+<sub><i>"Focus on what you can do, master it, and refine it to perfection."</i></sub>
 
 </div>
 
